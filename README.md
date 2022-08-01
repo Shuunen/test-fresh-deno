@@ -1,10 +1,12 @@
 # fresh project
 
-### Usage
+[![Project license](https://img.shields.io/github/license/Shuunen/test-fresh-deno.svg?color=informational)](https://github.com/Shuunen/test-fresh-deno/blob/master/LICENSE)
+
+## Usage
 
 Start the project:
 
-```
+```bash
 deno task start
 ```
 
